@@ -1,6 +1,18 @@
+#Math Magicians: setup
+Project requirements
+The easiest way to create a React application is using Create React App (CRA) and following the instructions in this guide.
+The application should run in the browser without errors.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built With 🛠️
+HTML/CSS & JS best practices: Correct use of tags, elements, properties and syntax.
+GitHub flow: Correct use of Branches for deployment and features development.
+Linters Check: Local and Pull Request check for errors, bugs and stylistic errors in code.
+Webpack: Bundler form JavaScript files for usage in a browser.
+REACT JS: JS library used for the basic structure.
 
 ## Available Scripts
 
@@ -68,3 +80,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+👤 **Basit Ali**
+
+- GitHub: [@githubhandle](https://github.com/basitali111)
+- Twitter: [@twitterhandle](https://twitter.com/BasitAl35031734)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-ali-3961141b3/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
