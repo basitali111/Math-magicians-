@@ -1,4 +1,4 @@
-#Math Magicians: setup
+# Math Magicians: setup
 Project requirements
 The easiest way to create a React application is using Create React App (CRA) and following the instructions in this guide.
 The application should run in the browser without errors.
