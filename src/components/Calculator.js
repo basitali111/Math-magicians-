@@ -33,7 +33,10 @@ const Calculator = () => {
   };
 
   return (
+    <>
+    <h2>Lets do Some Math!!</h2>
     <div className="calculator">
+  
       <div id="display" className="display">
         {changeDisplay()}
       </div>
@@ -95,6 +98,7 @@ const Calculator = () => {
         =
       </button>
     </div>
+ </>
   );
 };
 
