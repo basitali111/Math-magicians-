@@ -1,0 +1,10 @@
+.Quotes {
+  display: flex;
+  justify-content: center;
+  margin-top: 14rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}

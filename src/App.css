@@ -7,11 +7,8 @@
 }
 
 body {
-  background-color: purple;
+  background-color: #fff;
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -23,6 +20,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  border-radius: 10px;
+  margin-left: 43rem;
 }
 
 button {
@@ -55,4 +54,41 @@ button.orange {
 
 button:hover {
   background-color: lightyellow;
+}
+
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
+}
+
+#nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+#top-heading {
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  padding: 4rem;
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-left: 3rem;
+  margin-top: 4rem;
+  position: absolute;
 }
